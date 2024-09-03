@@ -9,7 +9,7 @@ void main () {
     char name[20];
     printf("Input name: ");
     scanf("%s", name);
-    printf("Hello, %s!", name);
+    printf("Hello, %s!",);
 
     printf("\n\n");
 }
