@@ -1,0 +1,23 @@
+[33mcommit c0a5d0d307b4dac7ab02e59bb3ff37f7888f6665[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mstress-test[m[33m)[m
+Author: Fabiola Villanueva <22103326@usc.edu.ph>
+Date:   Tue Sep 3 23:30:41 2024 +0800
+
+    testing for conflict
+
+[33mcommit 50629b6c8db6e2a68d435f9cd612708bcf67c541[m
+Author: Fabiola Villanueva <22103326@usc.edu.ph>
+Date:   Tue Sep 3 23:29:25 2024 +0800
+
+    testing for conflict
+
+[33mcommit 08324901b2c1fc49cb7dd36e19a70fab0258d65a[m[33m ([m[1;32mfeature/add-greeting[m[33m)[m
+Author: Fabiola Villanueva <22103326@usc.edu.ph>
+Date:   Tue Sep 3 23:24:01 2024 +0800
+
+    Add personalized greeting feature
+
+[33mcommit 30a07f869e88d29eef25c4713ebb25d94f470408[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Fabiola Villanueva <22103326@usc.edu.ph>
+Date:   Tue Sep 3 23:14:02 2024 +0800
+
+    Initial commit: Hello World application
